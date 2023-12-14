@@ -12,9 +12,10 @@ class ABobAndAliceGameMode : public AGameModeBase
 {
   GENERATED_BODY()
 
+
 public:
   ABobAndAliceGameMode();
-};
 
+};
 
 
